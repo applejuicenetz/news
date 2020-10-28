@@ -2,11 +2,11 @@
 
 alle GUIs zeigen auf der Startseite immer den HTML Inhalt von folgender URL an:
 
-- http://www.applejuicenet.de/inprog/news.php?version=CORE_VERSION
-- http://www.applejuicenet.de/inprog/news.php?version=0.29.142.229
-- http://www.applejuicenet.de/inprog/news.php?version=0.30.146.1203
-- http://www.applejuicenet.de/inprog/news.php?version=0.31.149.110
-- http://www.applejuicenet.de/inprog/news.php?version=0.31.149.111
+- http://www.applejuicenet.cc/inprog/news.php?version=CORE_VERSION
+- http://www.applejuicenet.cc/inprog/news.php?version=0.29.142.229
+- http://www.applejuicenet.cc/inprog/news.php?version=0.30.146.1203
+- http://www.applejuicenet.cc/inprog/news.php?version=0.31.149.110
+- http://www.applejuicenet.cc/inprog/news.php?version=0.31.149.111
 
 Wird keine Core Version angegeben oder es existiert keine korrespondierende Datei, wird nur der `header` und `footer` ausgegeben.
 
