@@ -9,6 +9,11 @@ alle `neueren` GUIs zeigen auf der Startseite immer den HTML-Inhalt von folgende
 - https://applejuicenetz.github.io/news/0.31.149.111.html
 - https://applejuicenetz.github.io/news/0.31.149.112.html
 - https://applejuicenetz.github.io/news/0.31.149.113.html
+- https://applejuicenetz.github.io/news/0.34.101.30.html
+- https://applejuicenetz.github.io/news/0.34.101.39.html
+- https://applejuicenetz.github.io/news/0.34.101.42.html
+- https://applejuicenetz.github.io/news/0.35.185.89.html
+- https://applejuicenetz.github.io/news/0.35.185.93.html
 
 Wird keine Core Version angegeben oder es existiert keine korrespondierende Datei, wird automatisch der Inhalt der [404.html](./docs/404.html) ausgegeben.
 
