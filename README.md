@@ -8,7 +8,7 @@ alle `neueren` GUIs zeigen auf der Startseite immer den HTML-Inhalt von folgende
 | --- | --- |
 | [`0.35.187.7`](https://applejuicenetz.github.io/news/0.35.187.7.html) | 🟢 aktuell |
 | [`0.35.187.3`](https://applejuicenetz.github.io/news/0.35.187.3.html) | 🟡 veraltet (Abschaltung geplant: voraussichtlich Ende März 2027) |
-| [`0.35.186.1`](https://applejuicenetz.github.io/news/0.35.186.1.html) | 🟡 veraltet (Abschaltung geplant: voraussichtlich Ende Oktober 2026) |
+| [`0.35.186.1`](https://applejuicenetz.github.io/news/0.35.186.1.html) | 🔴 abgeschaltet (gesperrt seit 2026-10-30) |
 | [`0.35.185.93`](https://applejuicenetz.github.io/news/0.35.185.93.html) | 🟡 veraltet (Abschaltung geplant: voraussichtlich Ende Dezember 2026) |
 | [`0.35.185.89`](https://applejuicenetz.github.io/news/0.35.185.89.html) | 🔴 abgeschaltet (gesperrt seit 2026-10-18) |
 | [`0.34.101.42`](https://applejuicenetz.github.io/news/0.34.101.42.html) | 🟢 aktuell (letzte 32bit fähige Version, bleibt bestehen) |
